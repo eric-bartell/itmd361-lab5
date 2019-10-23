@@ -9,7 +9,25 @@ img{
 }
 h1{
   color: white;
+  font-family: Georgia, Times, Times New Roman, serif;
+  font-size: 32px;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+a{
+  font-family: Georgia, Times, Times New Roman, serif;
+  font-size: 32px;
+}
+
+a:hover, a:visited{
+  color: #d8e3ff;
+}
+
+a:link {
+  color: white;
+}
+
 table{
   border: 6px solid black;
   margin-left: auto;
@@ -19,12 +37,12 @@ th{
   background-color: black;
   color: #d8e3ff; 
   text-align: center;
-  font-family: "Georgia", serif;
+  font-family: Georgia, Times, Times New Roman, serif;
   font-size: 20px;
 }
 td{
   background-color: #d8e3ff;
-  font-family: "Verdana", sans-serif;
+  font-family: Verdana, Geneva, sans-serif;
   font-size: 15px;
   text-align: left;
   margin: auto;
