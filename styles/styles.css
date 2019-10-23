@@ -1,20 +1,24 @@
 body{
   background-color: black;
 }
-img{
+.img{
   width: 200px;
   height: 200px;
   text-align: center;
 }
 table{
-  border: 2px solid black;
+  border: 6px solid black;
 }
 th{
   background-color: black;
   text-align: right;
-  color: white;
+  color: #d8e3ff;
+  font-family: "Georgia", serif;
+  font-size: 16px;
 }
 td{
   background-color: #d8e3ff;
+  font-family: "Georgia", serif;
+  font-size: 12px;
 }
 
