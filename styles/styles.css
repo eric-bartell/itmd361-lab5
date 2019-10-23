@@ -1,7 +1,17 @@
 body{
-  background-color: #d8e3ff;
+  background-color: black;
 }
 img{
   width: 100px;
   height: 100px;
 }
+table{
+  border: 2px solid black;
+}
+th{
+  background-color: white;
+}
+td{
+  background-color: #d8e3ff;
+}
+
