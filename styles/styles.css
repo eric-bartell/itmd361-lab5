@@ -9,6 +9,8 @@ img{
 }
 table{
   border: 6px solid black;
+  margin-left: 90%;
+  margin-right: 90%; 
 }
 th{
   background-color: black;
