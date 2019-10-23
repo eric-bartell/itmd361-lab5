@@ -12,15 +12,15 @@ table{
 }
 th{
   background-color: black;
-  text-align: right;
   color: #d8e3ff;
   font-family: "Georgia", serif;
-  font-size: 24px;
+  font-size: 20px;
 }
 td{
   background-color: #d8e3ff;
   font-family: "Georgia", serif;
   font-size: 18px;
-  text-align: center;
+  text-align: left;
+  margin: auto;
 }
 
