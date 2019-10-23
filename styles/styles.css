@@ -9,7 +9,9 @@ table{
   border: 2px solid black;
 }
 th{
-  background-color: white;
+  background-color: black;
+  text-align: right;
+  color: white;
 }
 td{
   background-color: #d8e3ff;
