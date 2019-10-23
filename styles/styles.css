@@ -15,11 +15,12 @@ th{
   text-align: right;
   color: #d8e3ff;
   font-family: "Georgia", serif;
-  font-size: 16px;
+  font-size: 24px;
 }
 td{
   background-color: #d8e3ff;
   font-family: "Georgia", serif;
-  font-size: 12px;
+  font-size: 18px;
+  text-align: center;
 }
 
