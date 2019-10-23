@@ -1,3 +1,7 @@
 body{
- background-color: #d8e3ff;
+  background-color: #d8e3ff;
+}
+img{
+  width: 100px;
+  height: 100px;
 }
